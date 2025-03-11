@@ -10,3 +10,4 @@ Run the three files in sequence, having previously prepared the directories for 
 1. data_acquisition.py
 2. search_lcrs.py
 3. lowpass_filter.py
+4. statistical_processing
