@@ -11,3 +11,4 @@ Run the three files in sequence, having previously prepared the directories for 
 2. search_lcrs.py
 3. lowpass_filter.py
 4. statistical_processing
+![Figure_1](https://github.com/user-attachments/assets/5ef01a0f-7909-41bf-a70d-1383d51a1cda)
