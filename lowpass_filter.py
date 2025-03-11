@@ -4,8 +4,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from search_lcrs import SIGNAL_PREPROCESSING
 from sklearn.metrics import root_mean_squared_error
-from search_lcrs import LCR_ENTROPY_DETECTOR
-
 
 class PROTEIN_BLOCKINESS(SIGNAL_PREPROCESSING):
     def __init__(self, name, sequence, lcr_info, RMSE): #sampling_frequency
