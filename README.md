@@ -13,5 +13,7 @@ Run the three files in sequence, having previously prepared the directories for 
 4. statistical_processing
 
 # Results
-![Figure](https://github.com/user-attachments/assets/5ef01a0f-7909-41bf-a70d-1383d51a1cda)
+1. Clusters
+![Figure_1](https://github.com/user-attachments/assets/51f0cbc7-dee6-465e-9a87-5dab487d1f9b)
+2. LCR distribution
 ![Figure_2](https://github.com/user-attachments/assets/0eb6a354-9d8b-47b0-93cc-a6abece1ad3b)
